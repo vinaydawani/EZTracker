@@ -1,3 +1,8 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/vinaydawani/EZTracker?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/vinaydawani/EZTracker?color=yellow&style=for-the-badge)
+![QGIS](https://img.shields.io/badge/MADE%20FOR-QGIS%203-success?style=for-the-badge&logo=qgis)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # EZTracker User Manual
 
 ### [Tomas Baliu-Rodriguez](https://www.linkedin.com/in/tomas-baliu-rodriguez-369a1315b/), [Michael Mott](https://www.linkedin.com/in/michael-mott-681269175/), [Claire Horack](https://www.linkedin.com/in/claire-horack-babb8294/), [Vinay Dawani](https://www.linkedin.com/in/vinaydawani/)
